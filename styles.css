@@ -16,7 +16,6 @@
 /* page content */
 
 body {
-  background-color: white;
   font-family: Trebuchet MS;
   margin: 0;
   padding: 0;
@@ -24,13 +23,12 @@ body {
 
 h1, h2 {
   color: white;
-  background-color: white;
   font-weight: bold;
   text-align: center;
 }
 
 h1 {
-  background-color: white;
+
   color: white;
   font-size: 6rem;
   margin-top: 30vh; 
@@ -43,7 +41,7 @@ h2 { font-size: 3rem; }
     body {
       background: url("https://wallpaperaccess.com/full/1846922.jpg") no-repeat;
       background-size: cover;
-      background-color: white;
+      
     }
 }
 /* https://assets.codepen.io/6093409/river.jpg */
