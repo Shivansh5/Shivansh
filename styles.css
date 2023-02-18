@@ -24,11 +24,13 @@ body {
 
 h1, h2 {
   color: white;
+  background-color: white;
   font-weight: bold;
   text-align: center;
 }
 
 h1 {
+  background-color: white;
   color: white;
   font-size: 6rem;
   margin-top: 30vh; 
