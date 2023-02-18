@@ -22,14 +22,14 @@ body {
 }
 
 h1, h2 {
-  color: white;
+/*   color: white; */
   font-weight: bold;
   text-align: center;
 }
 
 h1 {
 
-  color: white;
+/*   color: white; */
   font-size: 6rem;
   margin-top: 30vh; 
 }
@@ -46,8 +46,7 @@ h2 { font-size: 3rem; }
 }
 /* https://assets.codepen.io/6093409/river.jpg */
 main {
-/*   background-color: lightblue; */
-  background-color: white;
+  background-color: lightblue;
   font-size: 2rem;
   margin-top: 50vh;
   padding: 10px;
