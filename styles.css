@@ -44,7 +44,8 @@ h2 { font-size: 3rem; }
 }
 /* https://assets.codepen.io/6093409/river.jpg */
 main {
-  background-color: lightblue;
+/*   background-color: lightblue; */
+  background-color: white;
   font-size: 2rem;
   margin-top: 50vh;
   padding: 10px;
